@@ -12,4 +12,4 @@ Creates a second, independent tidy data set with the average of each variable fo
 
 ##Steps to work on this course project
 
-Run source("run_analysis.R"), then it will generate two new file average.txt and merged.txt in your working directory.
+Run source("run_analysis.R"), then it will generate two new file tidy.txt and tidy.mean.txt in your working directory.
